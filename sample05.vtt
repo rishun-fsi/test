@@ -4,8 +4,12 @@ STYLE
 ::cue {
     font-size: 80%;
     font-style: italic;
+    color: yellow;
     font-weight: bold;
+    background-color: red;
 }
 
 00:00:00.000 --> 00:01:40.000 position:50% align:center size:85%
-<c.yellow>This blade has a dark past.\nYou're lucky your blood's still flowing.\nThis font is way too big!</c>
+This blade has a dark past.
+You're lucky your blood's still flowing.
+This font is way too big!
