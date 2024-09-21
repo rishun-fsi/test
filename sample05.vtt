@@ -1,10 +1,6 @@
 WEBVTT
 
 STYLE
-::cue(c.yellow) {
-    color: yellow;
-}
-
 ::cue {
     font-size: 80%;
     font-style: italic;
