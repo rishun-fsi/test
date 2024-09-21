@@ -3,7 +3,6 @@ WEBVTT
 STYLE
 ::cue(c.yellow) {
     color: yellow;
-    background-color: red;
 }
 
 ::cue {
@@ -13,4 +12,4 @@ STYLE
 }
 
 00:00:00.000 --> 00:01:40.000 position:50% align:center size:85%
-<b><i><c.yellow>This blade has a dark past.\nYou're lucky your blood's still flowing.\nThis font is way too big!</c></i></b>
+<c.yellow>This blade has a dark past.\nYou're lucky your blood's still flowing.\nThis font is way too big!</c>
