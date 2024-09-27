@@ -26,13 +26,11 @@
     </layout>
   </head>
   <body xml:id="b1">
-    <div xml:id="d1" begin="0s" dur="2s">
-      <p xml:id="p1" region="r1">Text 1</p>
-      <p xml:id="p2" region="r2">Text 2</p>
+    <div xml:id="d1" begin="0s" dur="10s">
+      <p xml:id="p1" region="r1">1.字幕テスト！！！！</p>
     </div>
-    <div xml:id="d2" begin="1s" dur="2s">
-      <p xml:id="p3" region="r2">Text 3</p>
-      <p xml:id="p4" region="r1">Text 4</p>
+    <div xml:id="d2" begin="11s" dur="30s">
+   <p xml:id="p1" region="r1">2.字幕テスト！！！！</p>
     </div>
   </body>
 </tt>
