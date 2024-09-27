@@ -1,36 +1,21 @@
-<tt tts:extent="640px 480px" xml:lang="en"
-  xmlns="http://www.w3.org/ns/ttml"
-  xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="jpn" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling">
   <head>
     <layout>
-      <region xml:id="r1">
-        <style tts:origin="10px 100px"/>
-        <style tts:extent="620px 96px"/>
-        <style tts:fontSize="40px"/>
-        <style tts:fontWeight="bold"/>
-        <style tts:backgroundColor="black"/>
-        <style tts:color="red"/>
-        <style tts:textAlign="center"/>
-        <style tts:displayAlign="center"/>
-      </region>
-      <region xml:id="r2">
-        <style tts:origin="10px 300px"/>
-        <style tts:extent="620px 96px"/>
-        <style tts:fontSize="40px"/>
-        <style tts:fontWeight="bold"/>
-        <style tts:backgroundColor="black"/>
-        <style tts:color="yellow"/>
-        <style tts:textAlign="center"/>
-        <style tts:displayAlign="center"/>
+      <region xml:id="r_0">
+        <style tts:origin="50px 270px"></style>
+        <style tts:extent="800px 60px"></style>
+        <style tts:fontSize="60px"></style>
+        <style tts:backgroundColor="#000000"></style>
+        <style tts:color="#ffffff"></style>
       </region>
     </layout>
   </head>
-  <body xml:id="b1">
-    <div xml:id="d1" begin="0s" dur="10s">
-      <p xml:id="p1" region="r1">1.字幕テスト！！！！</p>
-    </div>
-    <div xml:id="d2" begin="11s" dur="30s">
-   <p xml:id="p1" region="r1">2.字幕テスト！！！！</p>
+  <body>
+    <div>
+      <p begin="00:00:00.018" end="00:10:34.567">
+        <span region="r_0">あいうえおかきくけこ</span>
+      </p>
     </div>
   </body>
 </tt>
